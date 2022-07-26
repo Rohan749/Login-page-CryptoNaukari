@@ -1,0 +1,274 @@
+.personal {
+  position: absolute;
+  width: 106px;
+  height: 19px;
+  left: 1243px;
+  top: 96px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+  text-align: right;
+
+  color: #8692a6;
+}
+
+.back_btn {
+  position: absolute;
+  width: 39px;
+  height: 19px;
+  left: 748px;
+  top: 75px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+
+  color: #8692a6;
+}
+
+.reg_heading {
+  position: absolute;
+  width: 415px;
+  height: 36px;
+  left: 793px;
+  top: 193px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 36px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+
+.reg_desc {
+  position: absolute;
+  width: 411px;
+  height: 56px;
+  left: 793px;
+  top: 239px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+
+  display: flex;
+  align-items: center;
+
+  color: #8692a6;
+}
+
+.name_label {
+  position: absolute;
+  width: 113px;
+  height: 19px;
+  left: 793px;
+  top: 335px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+  color: #696f79;
+}
+
+.name_input {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 426px;
+  height: 64px;
+  left: 793px;
+  top: 368px;
+  background: #ffffff;
+  border: 1px solid #1565d8;
+  box-shadow: 0px 4px 10px 3px rgba(0, 0, 0, 0.11);
+  border-radius: 6px;
+}
+
+.email_label {
+  position: absolute;
+  width: 115px;
+  height: 19px;
+  left: 793px;
+  top: 456px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+
+  color: #696f79;
+}
+
+.email_input {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 426px;
+  height: 64px;
+  left: 793px;
+  top: 489px;
+
+  border: 1px solid #8692a6;
+  border-radius: 6px;
+}
+
+.pass_label {
+  position: absolute;
+  width: 139px;
+  height: 19px;
+  left: 793px;
+  top: 577px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+
+  color: #696f79;
+}
+
+.pass_input {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 426px;
+  height: 64px;
+  left: 793px;
+  top: 610px;
+
+  border: 1px solid #8692a6;
+  border-radius: 6px;
+}
+
+.show_pass {
+  position: absolute;
+  width: 32px;
+  height: 15px;
+  left: 1157px;
+  top: 634px;
+  border: none;
+  background: none;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  cursor: pointer;
+  /* identical to box height */
+  display: flex;
+  align-items: center;
+  text-align: right;
+
+  color: #000000;
+}
+
+.reg_button {
+  position: absolute;
+  width: 426px;
+  height: 64px;
+  left: 793px;
+  top: 756px;
+
+  background: #1565d8;
+  border-radius: 6px;
+  color: white;
+  cursor: pointer;
+  border: none;
+  transition-duration: 0.3s;
+}
+
+.reg_button:hover {
+  box-shadow: 0px 0px 10px 1px rgb(167, 167, 167);
+}
+
+.or {
+  position: absolute;
+  width: 14px;
+  height: 15px;
+  left: 998px;
+  top: 845px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+
+  /* identical to box height */
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #bababa;
+}
+
+.google_btn {
+  position: absolute;
+  width: 426px;
+  height: 64px;
+  left: 793px;
+  top: 885px;
+  border: none;
+  background: #ffffff;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.08);
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.inputcheck {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  left: 793px;
+  top: 698px;
+}
+
+.terms {
+  position: absolute;
+  width: 220px;
+  height: 19px;
+  left: 827px;
+  top: 698px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+
+  color: #696f79;
+}
+
+.gIcon {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 836px;
+  top: 906px;
+}

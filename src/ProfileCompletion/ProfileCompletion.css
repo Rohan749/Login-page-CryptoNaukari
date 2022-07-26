@@ -1,0 +1,97 @@
+.prof_heading {
+  position: absolute;
+  width: 330px;
+  height: 36px;
+  left: 793px;
+  top: 193px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 36px;
+  display: flex;
+  align-items: center;
+  color: #000000;
+}
+
+.step2 {
+  position: absolute;
+  width: 81px;
+  height: 17px;
+  left: 1268px;
+  top: 75px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+
+  /* identical to box height */
+  display: flex;
+  align-items: center;
+  text-align: right;
+
+  color: #bdbdbd;
+}
+
+.resident {
+  position: absolute;
+  width: 119px;
+  height: 19px;
+  left: 1230px;
+  top: 96px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+  text-align: right;
+
+  color: #8692a6;
+}
+
+.prof_desc {
+  position: absolute;
+  width: 411px;
+  height: 56px;
+  left: 793px;
+  top: 239px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+
+  /* or 156% */
+  display: flex;
+  align-items: center;
+
+  color: #8692a6;
+}
+
+.statement {
+  position: absolute;
+  height: 15px;
+  left: 65.42%;
+  right: 24.24%;
+  top: calc(50% - 15px / 2 + 314.5px);
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+
+  /* identical to box height */
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #8692a6;
+}

@@ -1,0 +1,120 @@
+.bank_option {
+  position: absolute;
+  width: 132px;
+  height: 19px;
+  left: 1217px;
+  top: 96px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+  text-align: right;
+
+  color: #8692a6;
+}
+
+.step3 {
+  position: absolute;
+  width: 81px;
+  height: 17px;
+  left: 1268px;
+  top: 75px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+
+  /* identical to box height */
+  display: flex;
+  align-items: center;
+  text-align: right;
+
+  color: #bdbdbd;
+}
+
+._heading {
+  position: absolute;
+  width: 330px;
+  height: 36px;
+  left: 793px;
+  top: 283px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 36px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+
+._desc {
+  position: absolute;
+  width: 411px;
+  height: 56px;
+  left: 793px;
+  top: 329px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+
+  /* or 156% */
+  display: flex;
+  align-items: center;
+
+  color: #8692a6;
+}
+._label {
+  position: absolute;
+  width: 241px;
+  height: 19px;
+  left: 793px;
+  top: 425px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+
+  color: #696f79;
+}
+
+._input {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 426px;
+  height: 64px;
+  left: 793px;
+  top: 458px;
+
+  background: #ffffff;
+  border: 1px solid #1565d8;
+  box-shadow: 0px 4px 10px 3px rgba(0, 0, 0, 0.11);
+  border-radius: 6px;
+}
+
+._button {
+  position: absolute;
+  width: 426px;
+  height: 64px;
+  left: 793px;
+  top: 616px;
+  color: white;
+  background: #1565d8;
+  border-radius: 6px;
+}
