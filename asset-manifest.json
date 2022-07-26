@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Login-page-CryptoNaukari/static/css/main.f77e3259.css",
-    "main.js": "/Login-page-CryptoNaukari/static/js/main.cc7a5bb7.js",
+    "main.js": "/Login-page-CryptoNaukari/static/js/main.d8c1d24c.js",
     "index.html": "/Login-page-CryptoNaukari/index.html",
     "main.f77e3259.css.map": "/Login-page-CryptoNaukari/static/css/main.f77e3259.css.map",
-    "main.cc7a5bb7.js.map": "/Login-page-CryptoNaukari/static/js/main.cc7a5bb7.js.map"
+    "main.d8c1d24c.js.map": "/Login-page-CryptoNaukari/static/js/main.d8c1d24c.js.map"
   },
   "entrypoints": [
     "static/css/main.f77e3259.css",
-    "static/js/main.cc7a5bb7.js"
+    "static/js/main.d8c1d24c.js"
   ]
 }
