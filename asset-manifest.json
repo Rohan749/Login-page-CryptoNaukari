@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Login-page-CryptoNaukari/static/css/main.bb3c1cf7.css",
-    "main.js": "/Login-page-CryptoNaukari/static/js/main.e24e1afb.js",
-    "index.html": "/Login-page-CryptoNaukari/index.html",
-    "main.bb3c1cf7.css.map": "/Login-page-CryptoNaukari/static/css/main.bb3c1cf7.css.map",
-    "main.e24e1afb.js.map": "/Login-page-CryptoNaukari/static/js/main.e24e1afb.js.map"
+    "main.css": "/Login-page-CryptoNaukri/static/css/main.bb3c1cf7.css",
+    "main.js": "/Login-page-CryptoNaukri/static/js/main.9081b490.js",
+    "index.html": "/Login-page-CryptoNaukri/index.html",
+    "main.bb3c1cf7.css.map": "/Login-page-CryptoNaukri/static/css/main.bb3c1cf7.css.map",
+    "main.9081b490.js.map": "/Login-page-CryptoNaukri/static/js/main.9081b490.js.map"
   },
   "entrypoints": [
     "static/css/main.bb3c1cf7.css",
-    "static/js/main.e24e1afb.js"
+    "static/js/main.9081b490.js"
   ]
 }
