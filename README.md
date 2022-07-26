@@ -1,4 +1,4 @@
-# Login-page-CryptoNaukari
+# Login-page-CryptoNaukri
 ### This is a Login Page assignment for CryptoNaukari created using ReactJs.
 ### Live hosted on GitHub Pages: https://Rohan749.github.io/Login-page-CryptoNaukri
 
