@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Login-page-CryptoNaukari/static/css/main.f77e3259.css",
+    "main.js": "/Login-page-CryptoNaukari/static/js/main.732801f5.js",
+    "index.html": "/Login-page-CryptoNaukari/index.html",
+    "main.f77e3259.css.map": "/Login-page-CryptoNaukari/static/css/main.f77e3259.css.map",
+    "main.732801f5.js.map": "/Login-page-CryptoNaukari/static/js/main.732801f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f77e3259.css",
+    "static/js/main.732801f5.js"
+  ]
+}
